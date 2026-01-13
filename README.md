@@ -1,1 +1,1 @@
-This is a repository of images.
+This is a storage of images.
